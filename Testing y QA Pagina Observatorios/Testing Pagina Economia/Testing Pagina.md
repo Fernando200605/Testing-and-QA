@@ -1,4 +1,4 @@
-# Reporte de Incidencias – Observatorio Económico
+![](../../assets/Pasted%20image%2020260821120427.png)# Reporte de Incidencias – Observatorio Económico
 
 **Fecha:** 21 de agosto de 2026  
 **Estado:** Pendiente de revisión  
@@ -79,3 +79,46 @@ No es posible consultar la ficha técnica de un indicador debido a un error en l
 Revisar y reestructurar la matriz, diccionario o tabla de equivalencias que relaciona cada código de indicador con su respectiva dimensión.
 
 ![](../../assets/Pasted%20image%2020260821093017.png)
+
+## 6. Error de Renderizado en los Gráficos de Algunos Indicadores
+
+**Inconveniente**  
+Los cuadros de las gráficas aparecen en la página pero se quedan totalmente en blanco, por lo que no es posible visualizar la información del indicador.
+
+**Detalle del Problema**  
+- **Carga Correcta de Datos:** La información del archivo subido (Excel/CSV) sí llega completa al sistema y cuenta con más de dos registros cargados correctamente en cada caso.
+- **Comportamiento Inconsistente:** Se identificó que mientras algunos indicadores sí logran desplegar mensajes de error o advertencias en pantalla, este grupo en específico no muestra ningún aviso al usuario.
+- **Componentes de Pantalla Desalineados:** El sistema intentaba dibujar las gráficas usando comandos antiguos que ya no existen o que están incompletos en el código del sistema.
+- **Bloqueo Silencioso:** Al no encontrar la instrucción exacta para dibujar cada cuadro, el proceso se detiene a mitad de camino y deja los contenedores completamente vacíos.
+
+**Indicadores Afectados**  
+- 1001  
+- 1002  
+- 1003  
+- 1004  
+- 1014  
+- 1902  
+
+*(Nota: Todos los indicadores listados poseen más de 2 datos cargados en el sistema).*
+
+**Acción Necesaria**  
+Reemplazar las instrucciones antiguas por un código de dibujo directo que tome la información cargada y genere las gráficas de manera inmediata.
+
+```text
+[ Datos del Excel / CSV ]
+           │
+           ▼ (Más de 2 datos cargados)
+ [ Datos recibidos correctamente ]
+           │
+           ▼
+ [ Instrucciones antiguas de dibujo ]
+           │
+           ├──► Faltan piezas en el código
+           └──► Se interrumpe la lectura (sin mostrar error al usuario)
+           │
+           ▼
+ [ Resultado ]: Cuadros visibles pero totalmente vacíos
+```
+
+![](../../assets/Pasted%20image%2020260821120427.png)
+ 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Pagina.md",
+                "file": "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Pagina"
+              "title": "Testing Datos - Economia"
             }
           }
         ]
@@ -185,16 +185,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e2e2d4be832552fb",
+  "active": "67f22e168f6074ca",
   "lastOpenFiles": [
-    "assets/Pasted image 20260821085143.png",
     "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Pagina.md",
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
+    "Testing y QA Pagina Observatorios/Testing Pagina Social",
+    "assets/Pasted image 20260821120427.png",
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia/image.png",
+    "README.md",
+    "readme.md",
+    "assets/Pasted image 20260821085143.png",
     "assets/Pasted image 20260821084358.png",
     "assets/Pasted image 20260821091805.png",
     "assets/Pasted image 20260821090108.png",
     "Bienvenido.md",
     "assets",
-    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
     "Sin título.canvas",
     "2026-08-21.md",
     "assets/Pasted image 20260821093017.png",
