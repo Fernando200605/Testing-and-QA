@@ -1,0 +1,1 @@
+En los descargables de .csv del observatorio economico se logra apreciar lo siguiente 

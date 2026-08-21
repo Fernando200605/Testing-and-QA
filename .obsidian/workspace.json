@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "f1b38449383fc7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5fb12ae28b05bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c49a67f5e7e7af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9846ac76d7d06836",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c9d7b3cdd62412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f22e168f6074ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "67cacb555844bc6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "074471cc941d7e34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b99f118bbe73cba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a5501b8b772a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1afe9ec169ae8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "8db658e52e4fe745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "7fff966ecb9d534b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b00e4d3109969b16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7b4f3d5ac24ace7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f1c49a67f5e7e7af",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "2026-08-21.md",
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Pagina.md",
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
+    "Pasted image 20260821085143.png",
+    "Pasted image 20260821084358.png",
+    "Pasted image 20260821090108.png",
+    "Pasted image 20260821093017.png",
+    "Pasted image 20260821091805.png",
+    "Sin título.base",
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia",
+    "Testing y QA Pagina Observatorios/Testing Bot.md",
+    "Pasted image 20260821084333.png",
+    "Bienvenido.md",
+    "Testing y QA Pagina Observatorios",
+    "cree un enlace.md"
+  ]
+}
