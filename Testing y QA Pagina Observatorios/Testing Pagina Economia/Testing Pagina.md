@@ -18,7 +18,7 @@ Se presenta un fallo de maquetación y contraste visual en los controles y etiqu
 
 **Acción Necesaria**  
 Ajustar la posición (`position`, `bottom`) y el tamaño del botón/etiqueta flotante en la maquetación CSS, corregir la errata en el texto (<span style="color:#2e8b57;">"Observatorio Económico"</span>) y modificar el color o fondo de las flechas de navegación para asegurar el contraste.
-![](Pasted%20image%2020260821085143.png)
+![](../../assets/Pasted%20image%2020260821085143.png)
 
 ## 2. Inconsistencia en la cantidad total de indicadores – Dimensión Económica
 
@@ -46,7 +46,7 @@ Existe un problema de maquetación y estilos CSS en el menú de pestañas (*Tabl
 **Acción Necesaria**  
 Ajustar el margen (`margin`), el relleno (`padding`) o la propiedad `z-index` en la hoja de estilos CSS para garantizar un espaciado adecuado entre el contenedor del menú y las secciones adyacentes.
 
-![](Pasted%20image%2020260821090108.png)
+![](../../assets/Pasted%20image%2020260821090108.png)
 
 ---
 
@@ -62,7 +62,7 @@ No es posible consultar la ficha técnica básica de un indicador en la opción 
 **Acción Necesaria**  
 Modificar la declaración en el archivo JavaScript cambiando `const` por `let` (si se requiere reasignar su valor), renombrar la variable duplicada o ajustar su ámbito (*scope*).
 
-![](Pasted%20image%2020260821091805.png)
+![](../../assets/Pasted%20image%2020260821091805.png)
 
 ---
 
@@ -78,4 +78,4 @@ No es posible consultar la ficha técnica de un indicador debido a un error en l
 **Acción Necesaria**  
 Revisar y reestructurar la matriz, diccionario o tabla de equivalencias que relaciona cada código de indicador con su respectiva dimensión.
 
-![](Pasted%20image%2020260821093017.png)
+![](../../assets/Pasted%20image%2020260821093017.png)
