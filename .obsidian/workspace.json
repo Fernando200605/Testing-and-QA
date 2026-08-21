@@ -11,10 +11,14 @@
             "id": "f1c49a67f5e7e7af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Pagina.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Testing Pagina"
             }
           }
         ]
@@ -183,10 +187,11 @@
   },
   "active": "f1c49a67f5e7e7af",
   "lastOpenFiles": [
+    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
+    "Bienvenido.md",
     "Sin título.canvas",
     "2026-08-21.md",
     "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Pagina.md",
-    "Testing y QA Pagina Observatorios/Testing Pagina Economia/Testing Datos - Economia.md",
     "Pasted image 20260821085143.png",
     "Pasted image 20260821084358.png",
     "Pasted image 20260821090108.png",
@@ -196,7 +201,6 @@
     "Testing y QA Pagina Observatorios/Testing Pagina Economia",
     "Testing y QA Pagina Observatorios/Testing Bot.md",
     "Pasted image 20260821084333.png",
-    "Bienvenido.md",
     "Testing y QA Pagina Observatorios",
     "cree un enlace.md"
   ]
