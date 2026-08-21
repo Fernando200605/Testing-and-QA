@@ -22,9 +22,9 @@ A continuación se detalla el mapa de acceso a los expedientes de prueba y archi
 | Directorio / Documento | Alcance y Propósito | Estado QA | Enlace Directo |
 | :--- | :--- | :---: | :---: |
 | **Testing Pagina Economia/** | Reportes específicos del Observatorio Económico. | **En Revisión** | [👉 **Explorar Módulo**](./Testing%20y%20QA%20Pagina%20Observatorios/Testing%20Pagina%20Economia/) |
-| **M+ Testing Datos - Economia.md** | Incidencias relacionadas con la integridad, consistencia y exactitud de los datos económicos. | **Revisión Requerida** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/M%2B%20Testing%20Datos%20-%20Economia.md) |
-| **M+ Testing Pagina.md** | Incidencias relacionadas con la interfaz de usuario, maquetación, contraste y usabilidad. | **En Revisión** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/M%2B%20Testing%20Pagina.md) |
-| **M+ Testing Bot.md** | Incidencias relacionadas con bots, web scraping o integraciones automatizadas. | **Activo** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/M%2B%20Testing%20Bot.md) |
+| **M+ Testing Datos - Economia.md** | Incidencias relacionadas con la integridad, consistencia y exactitud de los datos económicos. | **Revisión Requerida** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/Testing%20Pagina%20Economia/Testing%20Datos%20-%20Economia.md) |
+| **M+ Testing Pagina.md** | Incidencias relacionadas con la interfaz de usuario, maquetación, contraste y usabilidad. | **En Revisión** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/Testing%20Pagina%20Economia/Testing%20Pagina.md) |
+| **M+ Testing Bot.md** | Incidencias relacionadas con bots, web scraping o integraciones automatizadas. | **Activo** | [📄 **Ver Incidencias**](./Testing%20y%20QA%20Pagina%20Observatorios/Testing%20Bot.md) |
 
 ---
 
