@@ -3,7 +3,7 @@
 **Fecha:** 21 de agosto de 2026  
 **Estado:** Pendiente de revisión  
 **Prioridad:** Alta  
-**Responsable:** Por asignar
+**Responsable:** David Fernando Monroy Buitrago
 
 ---
 
