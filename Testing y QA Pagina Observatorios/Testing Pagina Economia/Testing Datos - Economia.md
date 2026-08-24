@@ -27,4 +27,4 @@ Ajustar la exportación de archivos `.csv` en el backend (PHP) para forzar la ca
                │
                ▼
  [ Resultado ]: Caracteres especiales corruptos o ilegibles
- ```
+```

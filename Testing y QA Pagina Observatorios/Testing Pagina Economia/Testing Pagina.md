@@ -1,4 +1,4 @@
-![](../../assets/Pasted%20image%2020260821120427.png)# Reporte de Incidencias – Observatorio Económico
+ # Reporte de Incidencias – Observatorio Económico
 
 **Fecha:** 21 de agosto de 2026  
 **Estado:** Pendiente de revisión  
