@@ -14,9 +14,8 @@ Se presenta un error en la visualización del gráfico, impidiendo que los datos
 
 - **Comportamiento:** El error evidencia que el componente gráfico está recibiendo o generando valores no numéricos (`NaN`) al momento de construir los elementos SVG, afectando directamente la representación de los datos.
 
-## Acción Necesaria
-
-Revisar el procesamiento de los datos y la lógica JavaScript asociada al gráfico para identificar el origen de los valores `NaN` y corregirlos, garantizando que los valores utilizados para generar los elementos gráficos sean numéricos y que el gráfico pueda visualizar correctamente la información.
+## Recomendación 
+Al descargar los archivos .CSV  se encuentra perfectamente los datos sin error tipográficos o vacíos y/o revisar el tipo de dato en .CSV  para revisar que el tipo de dato sea numerico o decimal dependiendo su caso 
 
 ![](assets/Pasted%20image%2020260910144924.png)
 
