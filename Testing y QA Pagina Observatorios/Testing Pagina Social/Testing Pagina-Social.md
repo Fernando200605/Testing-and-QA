@@ -70,3 +70,5 @@ Los cuadros de las gráficas aparecen en la página pero se quedan totalmente en
 
 **Acción Necesaria**  
 Verificar y estandarizar la generación de las gráficas utilizando las mismas funciones y el mismo constructor implementado en los apartados donde funcionan correctamente, con el fin de mantener un comportamiento uniforme y evitar inconsistencias.
+
+##5.
