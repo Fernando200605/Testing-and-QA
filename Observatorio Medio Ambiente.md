@@ -18,6 +18,7 @@ Se presenta un error en la visualización del gráfico, impidiendo que los datos
 
 Revisar el procesamiento de los datos y la lógica JavaScript asociada al gráfico para identificar el origen de los valores `NaN` y corregirlos, garantizando que los valores utilizados para generar los elementos gráficos sean numéricos y que el gráfico pueda visualizar correctamente la informacion,ademas corregir los valores de width y heigth el cual es el causante del problema ya que se denota que por error se incluyo doble signo de porcentaje dentro de las medidas la cual rompe o destruye el constructor lo que hace que se revelen valores de NaN 
 
+
 ![](assets/Pasted%20image%2020260910144924.png)
 
 
